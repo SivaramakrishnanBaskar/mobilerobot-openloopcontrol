@@ -32,6 +32,9 @@ Step5: Execute the python program.
 ## Program
 
 ```
+Developed By: Sivaramakrishnan B
+Register Number: 212222110044
+
 from robomaster import robot
 import time 
 from robomaster import camera
